@@ -5,6 +5,7 @@
 -- 3 - abrir novo query tool no banco criado
 -- 4 - rodar a segunda parte
 
+
 -- primeira parte - cria o banco --
 CREATE DATABASE testequestor2
     WITH

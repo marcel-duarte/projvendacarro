@@ -1,4 +1,6 @@
+----------------------------------
 -- SCRIPTS SOLICITADOS NO TESTE --
+----------------------------------
 
 -- *** QUANTIDADE DE VENDAS DO MAREA ***
 select sum(vi.quantidade) quantidade
